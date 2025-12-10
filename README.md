@@ -111,7 +111,7 @@ The dashboard visualizes the entire tournament dataset with attractive UI & insi
 -Player bowling statistics
 
 
-Dashboard-
+Dashboard-https://github.com/dushantrohane/Womens_WorldCup_2025_Analysis/blob/main/Cricket_Dashboard.png
 
 🚀 How to Use This Project
 
