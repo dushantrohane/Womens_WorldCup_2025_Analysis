@@ -1,0 +1,32 @@
+match_id,date,team1,team2,match_type,venue_stadium,venue_city,venue_country,toss_winner,toss_decision,result,winning_team,first_score,first_wkts,second_score,second_wkts,POTM
+1,30-09-2025,India,Sri Lanka,League Stage,Barsapara Cricket Stadium,Guwahati,India,Sri Lanka,bowl,Completed,India,269,8,211,10,Deepti Sharma
+2,01-10-2025,Australia,New Zealand,League Stage,Holkar Stadium,Indore,India,Australia,bat,Completed,Australia,326,10,237,10,Ashleigh Gardner
+3,02-10-2025,Pakistan,Bangladesh,League Stage,R. Premadasa Stadium,Colombo,Sri Lanka,Pakistan,bat,Completed,Bangladesh,129,10,131,3,Marufa Akter
+4,03-10-2025,South Africa,England,League Stage,Barsapara Cricket Stadium,Guwahati,India,England,bowl,Completed,England,69,10,73,0,Linsey Smith
+5,04-10-2025,Australia,Sri Lanka,League Stage,R. Premadasa Stadium,Colombo,Sri Lanka,,,Abandoned,,,,,,
+6,05-10-2025,India,Pakistan,League Stage,R. Premadasa Stadium,Colombo,Sri Lanka,Pakistan,bowl,Completed,India,247,10,159,10,Kranti Goud
+7,06-10-2025,New Zealand,South Africa,League Stage,Holkar Stadium,Indore,India,New Zealand,bat,Completed,South Africa,231,10,234,4,Tazmin Brits
+8,07-10-2025,Bangladesh,England,League Stage,Barsapara Cricket Stadium,Guwahati,India,England,bowl,Completed,England,178,10,182,6,Heather Knight
+9,08-10-2025,Australia,Pakistan,League Stage,R. Premadasa Stadium,Colombo,Sri Lanka,Pakistan,bowl,Completed,Australia,221,9,114,10,Beth Mooney
+10,09-10-2025,India,South Africa,League Stage,ACA-VDCA Cricket Stadium,Vishakhapatnam,India,South Africa,bowl,Completed,South Africa,251,10,252,7,Nadine de Klerk
+11,10-10-2025,New Zealand,Bangladesh,League Stage,Barsapara Cricket Stadium,Guwahati,India,New Zealand,bat,Completed,New Zealand,227,9,127,10,Brooke Halliday
+12,11-10-2025,England,Sri Lanka,League Stage,R. Premadasa Stadium,Colombo,Sri Lanka,Sri Lanka,bowl,Completed,England,253,9,164,10,Nat Sciver-Brunt
+13,12-10-2025,India,Australia,League Stage,ACA-VDCA Cricket Stadium,Vishakhapatnam,India,Australia,bowl,Completed,Australia,330,10,331,7,Alyssa Haely
+14,13-10-2025,Bangladesh,South Africa,League Stage,ACA-VDCA Cricket Stadium,Vishakhapatnam,India,Bangladesh,bat,Completed,South Africa,232,6,235,7,Chloe Tryon
+15,14-10-2025,Sri Lanka,New Zealand,League Stage,R. Premadasa Stadium,Colombo,Sri Lanka,Sri Lanka,bat,No result,,,,,,
+16,15-10-2025,England,Pakistan,League Stage,R. Premadasa Stadium,Colombo,Sri Lanka,Pakistan,bowl,No result,,,,,,
+17,16-10-2025,Bangladesh,Australia,League Stage,ACA-VDCA Cricket Stadium,Vishakhapatnam,India,Bangladesh,bat,Completed,Australia,198,9,202,0,Alana King
+18,17-10-2025,Sri Lanka,South Africa,League Stage,R. Premadasa Stadium,Colombo,Sri Lanka,Sri Lanka,bat,Completed,South Africa,105,7,125,0,Laura Wolvaardt
+19,18-10-2025,Pakistan,New Zealand,League Stage,R. Premadasa Stadium,Colombo,Sri Lanka,New Zealand,bowl,No result,,,,,,
+20,19-10-2025,England,India,League Stage,Holkar Stadium,Indore,India,England,bat,Completed,England,288,8,284,6,Heather Knight
+21,20-10-2025,Sri Lanka,Bangladesh,League Stage,Dr. DY Patil Sports Academy,Mumbai,India,Sri Lanka,bat,Completed,Sri Lanka,202,10,195,9,Hasini Perera
+22,21-10-2025,South Africa,Pakistan,League Stage,R. Premadasa Stadium,Colombo,Sri Lanka,Pakistan,bowl,Completed,South Africa,312,9,83,7,Marizanne Kapp
+23,22-10-2025,England,Australia,League Stage,Holkar Stadium,Indore,India,Australia,bowl,Completed,Australia,244,9,248,4,Annabel Sutherland
+24,23-10-2025,India,New Zealand,League Stage,Dr. DY Patil Sports Academy,Mumbai,India,New Zealand,bowl,Completed,India,340,3,271,8,Smriti Mandhana
+25,24-10-2025,Pakistan,Sri Lanka,League Stage,R. Premadasa Stadium,Colombo,Sri Lanka,Sri Lanka,bowl,No result,,,,,,
+26,25-10-2025,South Africa,Australia,League Stage,Holkar Stadium,Indore,India,Australia,bowl,Completed,Australia,97,10,98,3,Alana King
+27,26-10-2025,New Zealand,England,League Stage,ACA-VDCA Cricket Stadium,Vishakhapatnam,India,New Zealand,bat,Completed,England,168,10,172,2,Amy Jones
+28,26-10-2025,Bangladesh,India,League Stage,Dr. DY Patil Sports Academy,Mumbai,India,India,bowl,No result,,,,,,
+29,29-10-2025,South Africa,England,Semi-Final,Barsapara Cricket Stadium,Guwahati,India,England,bowl,Completed,South Africa,319,7,194,10,Laura Wolvaardt
+30,30-10-2025,Australia,India,Semi-Final,Dr. DY Patil Sports Academy,Mumbai,India,Australia,bat,Completed,India,338,10,341,5,Jemimah Rodrigues
+31,02-11-2025,South Africa,India,Final,Dr. DY Patil Sports Academy,Mumbai,India,South Africa,bowl,Completed,India,298,7,246,10,Shafali Verma
